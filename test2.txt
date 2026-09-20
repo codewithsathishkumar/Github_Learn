@@ -1,1 +1,5 @@
 hello world
+how to code sent in vs to github?
+step 1:git add .
+step2:git commit -m ""
+step3:git push origin main
